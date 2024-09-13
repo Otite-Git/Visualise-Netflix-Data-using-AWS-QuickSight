@@ -1,4 +1,4 @@
-# 💻Visualise-Netflix-Data-using-AWS-QuickSight☁️
+# 💻Visualise Netflix Data using AWS QuickSight☁️
 
 
 Hi! Welcome to my repository containing my AWS Project I've have undertaken as an AWS expert and Cloud enthusiast⚡️:
